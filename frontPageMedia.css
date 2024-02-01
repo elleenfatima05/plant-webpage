@@ -1,0 +1,10 @@
+@media screen and (max-width:900px)
+ {
+   .navbar{
+    display: block;
+   }
+    .navlist{
+        display:block;
+        color: aqua;
+    }
+}
